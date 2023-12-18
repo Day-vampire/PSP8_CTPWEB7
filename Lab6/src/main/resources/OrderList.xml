@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<OrderList>
+
+
+    <Order>
+
+
+        <Title>Patch on the sleeve</Title>
+
+
+        <OrderType>&#128085; Clothes</OrderType>
+
+
+        <DiscountProcent>10</DiscountProcent>
+
+
+        <Delivery>No</Delivery>
+
+
+        <Count>&#128202; 6</Count>
+
+
+        <Price currency="CNY">21</Price>
+
+
+    </Order>
+
+
+    <Order>
+
+
+        <Title>Tennis racket</Title>
+
+
+        <OrderType>&#127934; Sports inventory</OrderType>
+
+
+        <DiscountProcent>3</DiscountProcent>
+
+
+        <Delivery>Yes</Delivery>
+
+
+        <Count>&#128202; 15</Count>
+
+
+        <Price currency="CNY">40</Price>
+
+
+    </Order>
+
+
+    <Order>
+
+
+        <Title>Headphones</Title>
+
+
+        <OrderType>&#128187; Electrics</OrderType>
+
+
+        <DiscountProcent>5</DiscountProcent>
+
+
+        <Delivery>Yes</Delivery>
+
+
+        <Count>&#128202; 5</Count>
+
+
+        <Price currency="USD">25</Price>
+
+
+    </Order>
+
+
+    <Order>
+
+
+        <Title>DN flag</Title>
+
+
+        <OrderType>✨ Decoration</OrderType>
+
+
+        <DiscountProcent>5</DiscountProcent>
+
+
+        <Delivery>No</Delivery>
+
+
+        <Count>&#128202; 3</Count>
+
+
+        <Price currency="RUB">1400</Price>
+
+
+    </Order>
+
+
+    <Order>
+
+
+        <Title>LN flag &#128512;</Title>
+
+
+        <OrderType>✨ Decoration</OrderType>
+
+
+        <DiscountProcent>5</DiscountProcent>
+
+
+        <Delivery>Yes</Delivery>
+
+
+        <Count>&#128202; 5</Count>
+
+
+        <Price currency="RUB">1400</Price>
+
+
+    </Order>
+
+
+</OrderList>
